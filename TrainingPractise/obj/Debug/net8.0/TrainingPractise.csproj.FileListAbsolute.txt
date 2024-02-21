@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\bin\Debug\net8.0\TrainingPractise.exe
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\bin\Debug\net8.0\TrainingPractise.deps.json
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\bin\Debug\net8.0\TrainingPractise.runtimeconfig.json
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\bin\Debug\net8.0\TrainingPractise.dll
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\bin\Debug\net8.0\TrainingPractise.pdb
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.AssemblyInfo.cs
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.dll
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\refint\TrainingPractise.dll
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.pdb
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\TrainingPractise.genruntimeconfig.cache
+C:\Users\LENOVO\source\Training\TrainingPractise\TrainingPractise\obj\Debug\net8.0\ref\TrainingPractise.dll

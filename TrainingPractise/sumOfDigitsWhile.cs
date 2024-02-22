@@ -20,7 +20,7 @@ namespace TrainingPractise
                 res = res + r;
                 num = num/ 10;
             }
-            Console.WriteLine("The sum of digits are: ");
+            Console.WriteLine("The sum of digits are: " +res);
         }
     }
 }
